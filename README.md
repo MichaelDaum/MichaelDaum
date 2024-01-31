@@ -3,4 +3,5 @@ Hi, I am a professional Foswiki consultant living in Hamburg, Germany. I help pe
 Links:
 - <a rel="me" href="https://fosstodon.org/@nuddlegg">Mastodon</a>
 - <a href="https://www.xing.com/profile/Michael_Daum4">Xing</a>
-- <a href="http://www.linkedin.com/in/michaeldaum">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/michaeldaum">LinkedIn</a>
+- <a href="https://www.michaeldaumconsulting.com">Michael Daum Consulting</a>
